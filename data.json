@@ -1,0 +1,22 @@
+[
+ {
+  "question": "What is the difference between descriptive and inferential statistics?",
+  "answer": "Descriptive statistics summarize and describe the characteristics of a data set. They provide simple summaries about the sample and the measures. Inferential statistics allow you to make predictions and generalizations about a population from a sample data set. They are used to make inferences and conclusions that extend beyond the immediate data."
+ },
+ {
+  "question": "Explain the difference between Type I and Type II errors in hypothesis testing.",
+  "answer": "A Type I error occurs when the null hypothesis is wrongly rejected. It involves rejecting a true null hypothesis. A Type II error occurs when the null hypothesis is wrongly not rejected. It involves failing to reject a false null hypothesis. The probability of making a Type I error is called the significance level. The probability of making a Type II error is called the power of the test."
+ },
+ {
+  "question": "How can you determine if a variable has a normal distribution? What tests could you use?",
+  "answer": "To determine if a variable follows a normal distribution, you can visually inspect its histogram and see if it follows a bell curve. You can also perform normality tests like the Kolmogorov-Smirnov test or Shapiro-Wilk test. These tests compare the scores in the sample to a normally distributed set of scores with the same mean and standard deviation. If the test is significant, then the data significantly deviates from a normal distribution."
+ },
+ {
+  "question": "What are some advantages and disadvantages of using a stratified sampling method?",
+  "answer": "Advantages of stratified sampling include: it ensures representation from important sub-groups in the population, it can provide greater precision than simple random sampling, and it allows use of different sampling techniques for different sub-groups. Disadvantages include: it requires prior knowledge about the population to divide it into relevant strata and it can be more complex to design and implement than simple random sampling."
+ },
+ {
+  "question": "How do you detect and handle outliers in a dataset?",
+  "answer": "Methods for detecting outliers include visual inspection of plots, calculating z-scores, the interquartile range rule, and statistical tests like Grubbs' test. Once detected, outliers can be handled by transforming the data, removing outliers carefully, replacing with mean or median values, or using robust statistical methods that are not influenced as much by outliers. The approach depends on the cause and nature of the outliers."
+ }
+]
